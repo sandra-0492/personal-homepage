@@ -2,6 +2,7 @@
   "name": "personal-homepage",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://sandra-0492.github.io/personal-homepage/",
   "dependencies": {
     "@reduxjs/toolkit": "^2.11.0",
     "@testing-library/dom": "^10.4.1",
