@@ -17,7 +17,7 @@ export const List = styled.ul`
 
 export const Tile = styled.li`
     background: ${({ theme }) => theme.colors.boxBackground};
-    border: 6px solid ${({ theme }) => theme.colors.tile.border};
+    border: 6px solid ${({ theme }) => theme.colors.title.border};
     border-radius: ${({ theme }) => theme.borderRadiusSmall};
     box-shadow: ${({ theme }) => theme.boxShadow};
     padding: 56px;
@@ -25,7 +25,7 @@ export const Tile = styled.li`
     transition: border-color 0.3s;
 
     &:hover {
-        border-color: ${({ theme }) => theme.colors.tile.borderHover};
+        border-color: ${({ theme }) => theme.colors.title.borderHover};
     }
 
     @media(max-width: ${({ theme }) => theme.breakpoints.mobileMax}px) {
@@ -35,7 +35,7 @@ export const Tile = styled.li`
 
 export const Name = styled.h3`
     margin: 0;
-    color: ${({ theme }) => theme.colors.tile.header};
+    color: ${({ theme }) => theme.colors.title.header};
     font-size: 24px;
 
     @media(max-width: ${({ theme }) => theme.breakpoints.mobileMax}px) {
