@@ -1,6 +1,32 @@
-# Getting Started with Create React App
+# My Personal Homepage 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hello🙋‍♀️This is my personal website where I share a little bit about myself, my projects & how to contact me.
+
+## Demo 🖥️
+
+[My Personal Hompage](https://sandra-0492.github.io/personal-homepage/)
+
+![Personal Homepage](https://github.com/sandra-0492/personal-homepage/blob/main/src/my-personal-homepage.gif?raw=true)
+
+## Features 🧩
+
+- My introduction and personal info.
+
+- Sections for projects, skills, and contact.
+
+- GitHub portfolio that fetches public repositories in real time.
+
+- A responsive design that works on phones and computers.
+
+- Smooth light/dark theme toggle with consistent state across the app.
+
+## Technologies 🛠️
+
+- HTML
+- CSS
+- JavaScript
+- React
+- API
 
 ## Available Scripts
 
