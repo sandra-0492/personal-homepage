@@ -22,8 +22,8 @@ export const MainInformation = () => (
       <Summary>
         <Icon src={faceIcon} alt="" />
         <Icon src={laptopIcon} alt="" />
-        I'm a passionate Frontend Developer in love with React, currently
-        looking for new job opportunities.
+        I’m a dedicated Frontend Developer who loves working with React, and I’m
+        now looking for my next professional challenge.
       </Summary>
       <StyledButtonLink href={`mailto:${email}`} title={email}>
         <ButtonIcon />
