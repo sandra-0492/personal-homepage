@@ -32,7 +32,8 @@ export const EmailLink = styled.a`
   text-decoration: none;
   font-weight: 900;
   font-size: 32px;
-  transition: color 03, s;
+  letter-spacing: 5%;
+  transition: color 0.3s;
 
   &:hover {
     color: ${({ theme }) => theme.colors.primary};
