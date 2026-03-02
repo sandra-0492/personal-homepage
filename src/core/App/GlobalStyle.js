@@ -16,6 +16,7 @@ body {
     color: ${({ theme }) => theme.colors.site.text};
     font-family: 'Inter', sans-serif;
     font-size: 18px;
+    padding-top: 119px;
     padding-bottom: 108px;
     letter-spacing: 0.05em;
     word-break: break-word;
